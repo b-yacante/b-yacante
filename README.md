@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="./public/Frijol - charla.gif"  />
+<img align="right" height="200" src="./public/Frijol - charla.gif"  />
 
 ###
 
