@@ -1,8 +1,10 @@
 <h4 align="left">
 👋 Hi there! I'm Braian Yacante, a passionate programmer with a focus on creating innovative and user-friendly applications.
- 
+</h4>
+<h4> 
 💻 Currently, I'm working on developing hybrid applications using Vue 3, crafting reusable web components, and documenting them with Storybook to ensure clarity and maintainability.
-
+</h4>
+<h4> 
 🎮 In my free time, I channel my creativity into game development using Godot.
 </h4>
 
